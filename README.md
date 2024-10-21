@@ -1,1 +1,1 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-onchain`]().
+This is a [Next.js](https://nextjs.org)  bootstrapped with [`create-onchain`]().
